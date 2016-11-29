@@ -17,7 +17,12 @@ var topContentData = [
 	['Bike', 'iOS', '222,900'],
 	['Run', 'Android', '215,651'],
 	['Bike', 'Android', '209,255'],
-	['Swim', 'iOS', '201,857']
+	['Swim', 'iOS', '201,857'],
+	['Swim', 'Android', '230,400'],
+	['Hike', 'iOS', '222,900'],
+	['Hike', 'Android', '215,651'],
+	['Weight Lift', 'Android', '209,255'],
+	['Weight Lift', 'iOS', '201,857']
 ];
 
 // To change content share types, change the names of the keys here (up to 4 names max)
